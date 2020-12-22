@@ -1,0 +1,11 @@
+name: CantUse
+main: amata1219.cant.use.CantUse
+version: 1.1.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  cantuse:
+    description: main command.
+    usage: /<command>
+    permission: cant.use.cantuse
+    permission-message: You do not have permission(<permission>).
